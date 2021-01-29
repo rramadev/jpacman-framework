@@ -160,6 +160,7 @@ public final class Navigation {
      *
      * @author Jeroen Roosen
      */
+    @SuppressWarnings("unused")
     private static final class Node {
 
         /**

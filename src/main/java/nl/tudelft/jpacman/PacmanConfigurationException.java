@@ -7,6 +7,7 @@ package nl.tudelft.jpacman;
  * @author Arie van Deursen, 2014
  *
  */
+@SuppressWarnings("serial")
 public class PacmanConfigurationException extends RuntimeException {
 
     /**
